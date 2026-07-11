@@ -45,7 +45,6 @@ The project also provides an opportunity to build practical experience designing
 
 - Python
 - Git & GitHub
-- Object-Oriented Programming (OOP)
 - Scientific Data Processing
 - Biological Taxonomy
 - Data Visualization *(planned)*
