@@ -71,7 +71,7 @@ species_map_config = {
 # Add Florida Keys National Marine Sanctuary overlay
 try:
     fm.GeoJson(
-        r"fknms_py2\fknms_py.json",
+        r"data\florida_keys_national_marine_sanctuary.json",
         name="Florida Keys National Marine Sanctuary",
         style_function=lambda x: {'color': '#0077be', 'weight': 2, 'fillOpacity': 0.03}
     ).add_to(m)
@@ -137,5 +137,5 @@ TimestampedGeoJson(
 ).add_to(m)
 
 # Save the timeline map to an HTML file in your workspace
-m.save("key_largo_climate_indicators.html")
-print("Timeline map successfully saved! Open 'key_largo_climate_indicators.html' to use the interactive time slider.")
+m.save("key_largo_biodiversity_map.html")
+print("Timeline map successfully saved! Open 'key_largo_biodiversity_map.html' to use the interactive time slider.")
