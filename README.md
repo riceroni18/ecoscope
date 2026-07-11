@@ -53,6 +53,7 @@ The project also provides an opportunity to build practical experience designing
 
 ---
 
+``
 ## Repository Structure
 EcoScope/
 │
