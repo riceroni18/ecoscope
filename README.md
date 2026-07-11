@@ -52,9 +52,9 @@ The project also provides an opportunity to build practical experience designing
 - Interactive Mapping *(planned)*
 
 ---
-
-``
 ## Repository Structure
+
+```text
 EcoScope/
 │
 ├── assets/            # Images and static resources
@@ -64,7 +64,7 @@ EcoScope/
 ├── tests/             # Unit tests
 ├── README.md
 └── requirements.txt
-`
+```
 
 ---
 
